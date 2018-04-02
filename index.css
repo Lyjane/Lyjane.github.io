@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+   body{
+=======
 body{
-	background: pink;
-}
+<<<<<<< HEAD
+>>>>>>> deb3a6d275208453ba57788bd881ec41fc3374ab
+=======
+>>>>>>> deb3a6d275208453ba57788bd881ec41fc3374ab
+   	background-image:url('imges/lamp.gif'); 
+   }
+   p{
+   	margin: 60px;
+   	color: white;
+   	font-size: 22px;
+   }
+         p:hover {
+      -webkit-transform:  translateX(100px);
+          -ms-transform:  translateX(100px);
+           -o-transform:  translateX(100px);
+              transform:  translateX(100px);
+    }
